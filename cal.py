@@ -6,6 +6,7 @@ def add(x,y):
 def sub(x,y):
     return x-y
 
+#add mul func
 def mul(x,y):
     return x*y
 
